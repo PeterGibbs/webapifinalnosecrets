@@ -1,0 +1,29 @@
+{
+  "name": "memedealer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Gibbs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterGibbs/webapiassignment2/issues"
+  },
+  "homepage": "https://github.com/PeterGibbs/webapiassignment2#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "actions-on-google": "^2.0.0",
+    "async": "^2.6.2",
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "mongoose": "^5.4.19",
+    "passport": "^0.4.0",
+    "passport-http": "^0.3.0",
+    "passport-jwt": "^4.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
